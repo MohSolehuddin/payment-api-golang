@@ -22,12 +22,16 @@ func main() {
 
 	fmt.Println("Payment API is ready in localhost:8080")
 	router := gin.Default()
-	router.POST("/payment", func(c *gin.Context) {
-		// Mengembalikan response berupa JSON
-		c.JSON(http.StatusOK, gin.H{
-			"message": "Hello Soleh!",
+	authorized := router.Group("/")
+	authorized.Use(AuthMiddleware)
+	{
+		authorized.POST("/payment", func(c *gin.Context) {
+			c.JSON(http.StatusOK, gin.H{
+				"message": "Hello Soleh!",
+			})
 		})
-	})
+	
+	}
 	router.POST("/login", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
 			"message": "Hello Soleh!",

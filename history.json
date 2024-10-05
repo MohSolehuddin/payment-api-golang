@@ -1,0 +1,258 @@
+{
+  "activities": [
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:18.449788903+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:18.449982748+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:19.002738794+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:19.003071715+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:19.495818028+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:19.496139764+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:20.037987003+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:20.038432173+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:20.552940878+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:20.553427523+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:21.090147518+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:21.090531732+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:21.553997136+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:21.554370908+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:22.010709832+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:22.011084264+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:22.474305372+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:22.474675866+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:22:45.381342358+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:22:45.38174166+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:25:38.404884022+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:25:38.40533486+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:32:58.465937181+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:32:58.46639049+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:34:27.257271483+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:34:27.257729832+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T18:00:22.34057985+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T18:00:22.341060159+07:00",
+      "activity": "Transfer activity recorded"
+    }
+  ],
+  "transfer_activities": [
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:18.450023526+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:19.003119036+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:19.496178325+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:20.038532508+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:20.553512787+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:21.090628509+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:21.554469395+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:22.011153085+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T16:58:22.474749552+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:22:45.381888236+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:25:38.405474093+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:32:58.466526202+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T17:34:27.257853487+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T18:00:22.341185933+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    }
+  ]
+}
