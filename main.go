@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/MohSolehuddin/payment-api-golang/middleware"
 	"github.com/MohSolehuddin/payment-api-golang/services"
 	"github.com/gin-gonic/gin"
 )
@@ -23,7 +24,7 @@ func main() {
 	fmt.Println("Payment API is ready in localhost:8080")
 	router := gin.Default()
 	authorized := router.Group("/")
-	authorized.Use(AuthMiddleware)
+	authorized.Use(middleware.AuthMiddleware())
 	{
 		authorized.POST("/payment", func(c *gin.Context) {
 			c.JSON(http.StatusOK, gin.H{
@@ -37,7 +38,7 @@ func main() {
 			"message": "Hello Soleh!",
 		})
 	})
-	router.POST("/logout", func(c *gin.Context) {
+	router.DELETE("/logout", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
 			"message": "Hello Soleh!",
 		})

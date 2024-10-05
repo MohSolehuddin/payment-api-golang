@@ -139,6 +139,26 @@
       "username": "",
       "timestamp": "2024-10-05T18:00:22.341060159+07:00",
       "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T19:23:09.63550132+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T19:23:09.635997943+07:00",
+      "activity": "Transfer activity recorded"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T19:24:59.558305957+07:00",
+      "activity": "User logged in"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T19:24:59.558859656+07:00",
+      "activity": "Transfer activity recorded"
     }
   ],
   "transfer_activities": [
@@ -249,6 +269,22 @@
     {
       "username": "",
       "timestamp": "2024-10-05T18:00:22.341185933+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T19:23:09.636153392+07:00",
+      "activity": "Money Transfer",
+      "from": "Alice",
+      "to": "Bob",
+      "nominal": "1000"
+    },
+    {
+      "username": "",
+      "timestamp": "2024-10-05T19:24:59.559090498+07:00",
       "activity": "Money Transfer",
       "from": "Alice",
       "to": "Bob",
