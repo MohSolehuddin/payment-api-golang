@@ -1,0 +1,5 @@
+POST http://localhost:8080/payment
+###
+POST http://localhost:8080/login
+###
+DELETE http://localhost:8080/logout

@@ -1,5 +1,4 @@
-module payment-api-golang
-
+module github.com/MohSolehuddin/payment-api-golang
 go 1.23.2
 
 require github.com/MohSolehuddin/payment-api-golang/routes v0.0.0-20241005024226-64354ac0e9c3
