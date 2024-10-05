@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/MohSolehuddin/payment-api-golang/handlers"
 	"github.com/MohSolehuddin/payment-api-golang/middleware"
 	"github.com/MohSolehuddin/payment-api-golang/services"
 	"github.com/gin-gonic/gin"
@@ -33,11 +34,7 @@ func main() {
 		})
 	
 	}
-	router.POST("/login", func(c *gin.Context) {
-		c.JSON(http.StatusOK, gin.H{
-			"message": "Hello Soleh!",
-		})
-	})
+	router.POST("/login", handlers.LoginHandler("/storage/userCredential.json", ))
 	router.DELETE("/logout", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
 			"message": "Hello Soleh!",
